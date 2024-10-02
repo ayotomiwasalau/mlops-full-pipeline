@@ -1,0 +1,1 @@
+*/10 * * * *  python /Users/ayotomiwasalau/Documents/data-tools-project/udacity/mlops/risk-assessment/fullprocess.py
